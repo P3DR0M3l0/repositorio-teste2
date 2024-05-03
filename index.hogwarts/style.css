@@ -1,0 +1,237 @@
+body {
+    background-position: cover;
+    background: url(https://c4.wallpaperflare.com/wallpaper/46/870/364/coat-of-arms-harry-potter-hogwards-the-coat-of-arms-of-hogwarts-wallpaper-preview.jpg);
+}
+
+
+#potte {
+    margin-left: -10px;
+    width: 1385px;
+    padding: 10px;
+    background: url(https://th.bing.com/th/id/R.0f1926b2d61da3fc016fce7aa7647584?rik=d5vxFq%2fF4Mrzyg&pid=ImgRaw&r=0);
+    background-position: 50px;
+
+}
+
+
+#neymar {
+    padding: 10px;
+    padding-right: 35px;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: center;
+    justify-content: space-around;
+    transition: 0.6s;
+}
+
+h1,
+h2,
+h3 {
+    padding: 35px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 12;
+}
+
+#fff {
+    padding: 45px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 12;
+}
+
+img {
+    border-radius: 20px;
+    margin: auto;
+    display: block;
+}
+
+p {
+    background: white;
+    padding: 18px;
+    border-radius: 15px;
+    font-size: 18;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+
+}
+
+#Lufa-Lufa {
+    margin-left: 95px;
+    padding: 44px;
+    border-radius: 65px;
+    float: right;
+    height: 375px;
+}
+
+#luff {
+    padding: 60px;
+    border-radius: 95px;
+    float: right;
+
+}
+
+.corvinal {
+
+    border: 2px color(black);
+    padding: 35px;
+    width: 500px;
+    height: 550px;
+
+}
+
+#liliam {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    font-size: 18;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+
+}
+
+ul,
+li {
+
+    padding: 0, 9px;
+    background: white;
+    border-radius: 12px;
+
+}
+
+#thiago {
+
+    background: white;
+    border-radius: 25px;
+    font-size: 12px;
+    border: 5px color (black);
+    font-weight: unset;
+
+}
+
+table,
+th,
+td {
+    margin: 25px;
+    padding: 4px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: white;
+    border-radius: 8px;
+
+}
+
+#draco {
+    background: transparent;
+}
+
+
+.waviy {
+
+    text-align: center;
+    padding: 65px;
+    position: relative;
+    -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0, 0, 0, .2));
+
+}
+
+.waviy span {
+    border-radius: 15px;
+    background: url(https://kidswallpapercompany.com/cdn/shop/products/108186-1-WALLPAPER_600x.jpg?v=1663944878);
+    position: relative;
+    display: inline-block;
+    font-size: 4rem;
+    text-transform: uppercase;
+    animation: waviy 1s infinite;
+    animation-delay: calc(.1s * var(--i));
+
+}
+
+@keyframes waviy {
+
+    0%,
+    40%,
+    100% {
+        transform: translateY(0)
+    }
+
+    20% {
+        transform: translateY(-20px);
+    }
+}
+
+.caixabruxo {
+
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cartabruxo {
+    width: 300px;
+    height: 460px;
+    margin: 25px;
+    background: #fff;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px #000;
+}
+
+.card-cabeçario {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    background: url(https://img.freepik.com/premium-vector/hand-drawn-seamless-pattern-doodle-magic-vector-background-red_712485-229.jpg?size=626&ext=jpg);
+
+}
+
+.card-img {
+    float: center;
+    width: 100%;
+    height: auto;
+}
+
+.card-corpo {
+    background: url(https://img.freepik.com/premium-vector/hand-drawn-seamless-pattern-doodle-magic-vector-background-red_712485-229.jpg?size=626&ext=jpg);
+    height: 85px;
+    padding: 15px;
+    text-align: center;
+}
+
+.card-texto {
+
+    background: url(https://img.freepik.com/free-vector/realistic-old-paper-texture-with-empty-space_52683-74452.jpg?w=740&t=st=1700005901~exp=1700006501~hmac=5e721ae7969ca2325780f2e35764557b9e771d2486b9d689290835b93e580d13);
+    width: 210px;
+    margin: 0px;
+    font-family: cursive;
+    font-size: 10px;
+    color: #000;
+}
+
+#hermi {
+    margin-top: 25px;
+    float: center;
+    width: 290px;
+
+}
+
+.card-footer {
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    background-color: darkslategray;
+}
+
+h4,
+h5 {
+    margin-left: 105px;
+    width: 210px;
+    align-items: center;
+    border-radius: 15px;
+    background: url(https://img.freepik.com/free-vector/realistic-old-paper-texture-with-empty-space_52683-74452.jpg?w=740&t=st=1700005901~exp=1700006501~hmac=5e721ae7969ca2325780f2e35764557b9e771d2486b9d689290835b93e580d13);
+}
+
+@media screen and (max-width: 600px) {
+    /* Estilos para telas menores que 600 pixels de largura */
+}
